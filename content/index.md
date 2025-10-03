@@ -1,18 +1,23 @@
-
-
-
 ---
-Title: Home
+title: "Cybersecurity Knowledge Base"
+date: 2025-10-03
 ---
 
-# Welcome to the Cybersecurity Knowledge Base
+# Welcome to the Cybersecurity Knowledge Base  
 
-## Main Categories
+This knowledge base is designed to help students, beginners, and professionals understand the **foundations of cybersecurity**.  
 
-- [[fundamentals/index|Cybersecurity Fundamentals]]
-- [[network-security/index|Network Security]]
-- [[application-security/index|Application Security]]
-- [[cryptography/index|Cryptography & Encryption]]
-- [[cyber-threats/index|Cyber Threats & Attacks]]
-- [[incident-response/index|Incident Response & Forensics]]
-- [[standards-compliance/index|Standards & Compliance]]
+Here you’ll find:  
+- Core concepts like the [CIA Triad](basics/cia_triad.md)  
+- Explanations of common [cyberattacks](attacks/malware.md)  
+- Defensive measures like [Firewalls](defenses/firewalls.md) and [Encryption](defenses/encryption.md)  
+- Popular [tools](tools/wireshark.md) used in cybersecurity  
+- Guidance on [careers](careers/jobs.md) and certifications  
+
+---
+**Explore the sections to get started:**  
+- [Basics](basics/overview.md)  
+- [Attacks](attacks/malware.md)  
+- [Defenses](defenses/firewalls.md)  
+- [Tools](tools/wireshark.md)  
+- [Careers](careers/jobs.md)  
